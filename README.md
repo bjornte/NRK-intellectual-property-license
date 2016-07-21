@@ -22,7 +22,7 @@ Det er åpenbart ikke førende for NRK hva en enkelte open source-aktivister men
 
 > Unntak gjelder for bruk til privat, ikke-kommersiell bruk.
 
-(Sukk... her ble det ikke en gang lest korrektur.)
+(Her kunne jo NRK tatt seg bryet med å lese korrektur.)
 
 ### Forslag til nytt avsnitt
 
