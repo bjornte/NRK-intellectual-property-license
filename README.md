@@ -10,7 +10,7 @@
 
 Jeg (Bjørn T.) er ikke en gang sikker på at jeg har rett til å sitere fra siden, så jeg nøyer meg med å lime inn et skjermbilde.
 
-Jeg (Bjørn T.) tenker NRK bør ha en strategi om å publisere så mye som overhodet mulig av sin egenproduksjon som åpen kilde. Mange NRK-ansatte mener dette er en spennende tanke, men begynner fort å problematisere rundt TV-produksjonene sine, der de bruker lisensiert musikk og andre elementer de ikke kan distribuere videre. For å skape framdrift ønsker jeg derfor i første omgang å begrense diskusjonen til å gjelde tekstlig innhold på NRK.no. Jeg mener vi kan ta et stort skritt videre kun ved å endre ett enkelt avsnitt på opphavsrettssiden; det som omhandler unntak.
+Jeg tenker NRK bør ha en strategi om å publisere så mye som overhodet mulig av sin egenproduksjon som åpen kilde. Mange NRK-ansatte mener dette er en spennende tanke, men begynner fort å problematisere rundt TV-produksjonene sine, der de bruker lisensiert musikk og andre elementer de ikke kan distribuere videre. For å skape framdrift ønsker jeg derfor i første omgang å begrense diskusjonen til å gjelde tekstlig innhold på NRK.no. Jeg mener vi kan ta et stort skritt videre kun ved å endre ett enkelt avsnitt på opphavsrettssiden; det som omhandler unntak.
 
 ### Nåværende avsnitt om unntak
 
