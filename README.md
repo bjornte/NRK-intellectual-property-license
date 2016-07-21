@@ -2,7 +2,11 @@
 
 **Oppsummering:** NRK må endre praksis til å tillate fri gjenbruk, også kommersielt, av så mye av sitt egenproduserte innhold som overhodet mulig. Et verdifullt og enkelt gjennomførbart første steg er å åpne for gjenbruk av all tekst publisert på NRK.no av bedriftens egne journalister/ansatte og av freelancere der NRK har enerett på innholdet. Dette kan gjøres i en håndvending ved å endre ett enkelt avsnitt på NRK.no sin side om opphavsratt.
 
-**Er du enig?** Logg deg inn her på Github og stjernemerk dette "repository"et! :-)
+**Er du enig?** Logg deg inn her på Github og stjernemerk dette "repository"et, og tweet om det til andre interesserte! :-)
+
+**Er du fra NRK?** Kan du komme med en oppfølging på <br>
+1) det begrensede use caset rundt artikkeltekst på NRK.no, se detaljer under og <br>
+2) deres oppfatning av den siterte Stortingsmeldingen?
 
 ## Bakgrunn
 
