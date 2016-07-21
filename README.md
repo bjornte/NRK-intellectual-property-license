@@ -26,7 +26,7 @@ Jeg (Bjørn T.) tenker NRK bør ha en strategi om å publisere så mye som overh
 
 ## Opprinnelig e-post til NRK
 
-*Under er en av flere e-poster sendt i sakens anledning til kringkastingssjef og ansvarlig redaktør Thor Gjermund Eriksen. E-posten ble, som alle andre jeg har sendt til NRKs sentrale ledelse, ikke besvart. Folk med mer peiling enn meg har for øvrig siden tipset om at [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) er bedre egnet til formålet enn NLOD.*
+*Under er en av flere e-poster sendt i sakens anledning til kringkastingssjef og ansvarlig redaktør Thor Gjermund Eriksen (som ikke svarte - men se under for kommentarer fra andre NRK-ansatte). Folk med mer peiling enn meg har for øvrig siden tipset om at [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) er bedre egnet til formålet enn NLOD.*
 
 **Fra:** Bjørn Tennøe<br>
 **Til:** Thor Gjermund Eriksen<br>
@@ -44,3 +44,23 @@ Eirik Solheim sin artikkel «[Vær så snill å kopiere meg!](http://nrkbeta.no/
 
 Hilsen Bjørn
 m. 966 24 730
+
+## Foreløpige svar fra NRK
+
+Via gruppeleder Helge Kaasin i NRK Beta fikk jeg 11. feb. 2016 følgende kommentar fra NRK-advokat Thomas Myhr:
+
+> *Rettighetsbildet hva gjelder åndsverk som NRK gjør offentlig tilgjengelig på sine nettsider er mangefasettert og i mange situasjoner komplisert. Majoriteten av disse åndsverkene har NRK ervervet fra tredjepart. Som utgangspunkt erverver NRK kun rettigheter for egen publisering og ikke for tredjemanns bruk. Dette er et spørsmål om kostnader. På bakgrunn av dette vil det neppe være mulig for NRK å gi en lisens i samsvar med Norsk lisens for offentlige data (NLOD) til denne typen av innhold. Til dette kan det dog nevnes at lenking til NRKs innhold – forutsatt at det skjer i samsvar med EU-domstolens uttalelser i bl.a. Svensson og BestWater – ikke krever samtykke, eller ytterligere rettighetsklarering.*
+
+Jeg fulgte opp:
+
+> (...) Jeg skjønner at åndsverk som NRK har ervervet fra tredjepart ikke kan CC- eller NLOD-lisensieres av dere. Men hva med eks. deres egne tekstlige artikler? Det er ca. 68 artikler på NRKs forside akkurat nå (fredag 12. jan). Bortsett fra matartiklene (curry og suppe) og NTB-artikkelen (om IS) er alle skrevet av en journalist som, når jeg trykker på navnet, har en NRK-epost-adresse. Jeg antar derfor NRK har opphavsrett på alt dette innholdet, selv om noen av journalistene skulle være freelancere? Korriger meg dersom jeg tar feil. (...) Spørsmålet mitt er da: **Hva hindrer CC- eller NLOD-lisensiering av artikkelteksten og fotografiene som er kreditert folk med NRK-epost-adresse?** Og eventuelt samme spørsmål om videoene, hvis NRK har opphavsretten på disse? Kunne ikke opphavsrettssiden deres inkludert noe slikt som: «Artikler og fotografier som er produsert av NRK-medarbeidere er tilgjengelig for videre distribusjon og bearbeidelse under CC BY-SA 4.0»? Som en start. (...)
+
+NRK svarte:
+
+> *Ja, ideelt sett skulle vi ønske at vi kunne, men systemene våre støtter ikke en slik type sortering i dag. Det er tvilsomt om etterspørselen er så stor at en investering i et slikt system ville stått seg gjennom en kost–nytte-analyse. Det ville rett og slett blitt mindre innhold til publikum. Samtidig er artiklene i tillegg dynamiske, så det som ikke inneholder rettighetsbelagt innhold ved første publisering, faktisk kan inneholde dette senere på dagen.*
+
+Da hadde vi imidlertid også diskutert foto, video og databaser fra journalistisk gravearbeid a la [Guardian Open Platform](http://open-platform.theguardian.com/), så jeg prøvde å begrense diskusjonen:
+
+> (...) For å returnere til det mest grunnleggende: **Er det mulig med CC-lisensiering av artikkeltekster på nrk.no som er skrevet at NRK-ansatte?** Slik jeg forstår det, krever det ingen tekniske endringer, kun en oppdatering av opphavsrettsteksten. Når det er drøftet ferdig kan man eventuelt fortsette diskusjonen rundt videre utvidelser :-)
+
+NRK svarte ikke på denne, så det er siste utvikling i saken.
