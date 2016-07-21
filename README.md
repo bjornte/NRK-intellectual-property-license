@@ -91,7 +91,7 @@ Igjen kom det ikke noe svar fra NRK.
 
 ## Nytteverdi
 
-På teoretisk nivå mener jeg det er gunstig når Staten tilrettelegger med infrastrutur der andre interessenter, deriblant næringslivet, kan bygge tjenester. Det bør være sammenfallende med innstillingen til alle norske partier som har noensinne har hatt regjeringsmakt i Norge.
+På teoretisk nivå mener jeg det er gunstig når Staten tilrettelegger med infrastrutur der andre interessenter, deriblant næringslivet, kan bygge tjenester. Det bør være sammenfallende med innstillingen til alle norske partier som noensinne har hatt regjeringsmakt i Norge.
 
 På konkret nivå hva NRKs innhold angår tror jeg det er et stort, muligens enormt, uutnyttet potensiale. En forutsigbar kilde til kvalitetsinnhold bør ha uvurdelig verdi i medieverdenen, både til styrking av eksiterende tjenester og til oppblomstring av helt nye tilbud. Eksempelvis har mye av NRKs innhold allmenngyldig interesse også for folk som ikke bor i Norge eller har norsk som morsmål. Dermed kan vi forestille oss ny bruk av NRK-artikler for integrering av innvandrere (se forslag til bloggpost under), eller som plattform for bedre forståelse av skandinavisk kultur i utlandet.
 
