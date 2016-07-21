@@ -26,7 +26,8 @@ Jeg (Bjørn T.) tenker NRK bør ha en strategi om å publisere så mye som overh
 
 ## Opprinnelig e-post til NRK
 
----
+*NB: Folk med mer peiling enn meg har siden tipset meg om at [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) er bedre egnet til formålet enn NLOD.*
+
 **Fra:** Bjørn Tennøe<br>
 **Til:** Thor Gjermund Eriksen<br>
 **Dato:** 20. mars 2014
