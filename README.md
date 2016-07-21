@@ -4,6 +4,8 @@
 
 **Er du enig?** Logg deg inn her på Github og stjernemerk dette "repository"et, og tweet om det til andre interesserte! :-)
 
+**Vil du være med?** Nederst på denne siden er et utkast til en bloggpost som jeg tenker å sende til NRK Ytring. Klask tastaturet på nettbrettet og hiv deg med! Alt er åpent og redigerbart.
+
 **Er du fra NRK?** Kan du komme med en oppfølging på<br>
 1) det begrensede use caset rundt artikkeltekst på NRK.no (se detaljer under), og<br>
 2) deres oppfatning av den siterte Stortingsmeldingen?
