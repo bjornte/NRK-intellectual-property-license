@@ -4,8 +4,8 @@
 
 **Er du enig?** Logg deg inn her på Github og stjernemerk dette "repository"et, og tweet om det til andre interesserte! :-)
 
-**Er du fra NRK?** Kan du komme med en oppfølging på <br>
-1) det begrensede use caset rundt artikkeltekst på NRK.no, se detaljer under og <br>
+**Er du fra NRK?** Kan du komme med en oppfølging på<br>
+1) det begrensede use caset rundt artikkeltekst på NRK.no (se detaljer under), og<br>
 2) deres oppfatning av den siterte Stortingsmeldingen?
 
 ## Bakgrunn
