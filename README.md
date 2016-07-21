@@ -97,14 +97,16 @@ Samtidig kan innholdet gi grobunn for gründervirksomhet.
 Med Lund i spiss inviterte Aftenposten i januar til debatt om [teknologi og fremtidens arbeidsmarked](http://landingssider.kreateam.aftenposten.no/teknologi/). Næringsminister Monica Mæland var blant foredrags­holderne. Som sine forgjengere bebuder hun at også denne regjeringen *«[satser på innovasjon og nytenkning](http://www.innovasjonogforskning.no/naeringsliv/regjeringen-som-satser-pa-innovasjon-og-nytenkning)»*. Med allmennkringkasterne kan de skandinaviske regjeringene gi nasjonenes medie- og oppstartsmiljø unike konkurransefortrinn. Det gjør det ved å åpne opp innholdet i statenes mediehus. 
 
 Tenk om NRK slipper fri sitt eget innhold, gjør det [søkbart](https://funksjon.wordpress.com/2016/02/02/kan-vi-fa-tv-arkivsok-nrk/) og merker det med emneord, slik at det lett kan filtreres tematisk, regionalt og på andre måter, slik det gjøres på Yr.no. Hva om de samtidig gjør som sin partner met.no, og nedtoner sitt eget nettsted. Hvilket potensiale for innovasjon og nytenkning gir det norske mediebedrifter, etablerte som nyutsprungne?
-Kringkasting av den nordiske kulturen: Hva er potensialet?
+
+### Kringkasting av den nordiske kulturen: Hva er potensialet?
 
 Skandinaver flest er stolte av kulturen sin. Derfor vil de at innvandrere skal integreres, altså forstå og verdsette de kvalitetene samfunnene våre byr på. Derfor er vi stolte og enige når Bernie Sanders ser til Skandinavia når han skal løse USAs utfordringer. Om både innvandrere og verden for øvrig skal lære den skandinaviske modellen, må vi utnytte allmennkringkasterne våre til det fulle.
 
 Statsministeren fokuserte på inkludering og nyvinning i nyttårstalen sin. [Hun sa](https://www.regjeringen.no/no/aktuelt/nyttarstalen-2016/id2469087/): *«Vi har store uløste oppgaver. Og vi har mange ledige hender. Da må vi koble dem sammen.»* Når vi skal tenke nytt om integrering, må vi stille noen spørsmål som i utgangspunktet kan virke naive. Her er to: Kan innvandrerne, som en del av sin språkopplæring, oversette NRKs nyhetsartikler til sitt morsmål, og kanskje til engelsk i samme slengen? Og kan disse oversatte utgavene gi oss et multilingualt NRK som både får større relevans i innvandrermiljøene, men som også er en verdifull kilde til den skandinaviske verdensforståelsen utenfor våre egne landegrenser?
 
 En faglig note: En av de mulige, åpne lisensene (NLOD) sier blant annet at *«lisensgiver fraskriver seg ethvert ansvar for informasjonens kvalitet»*. Så NRK trenger kun å frigi innholdet. Det vil selvfølgelig hjelpe om de tar initiativ til en plattform der det bearbeidede stoffet kan distrubueres. Men de trenger ikke overvåke eller kvalitetssikre. Det kan med hell overlates til frivillige. Wikipedia har vist oss hvordan.
-Vi skal finne den nye oljen. Sitter NRK på en gullgruve?
+
+### Vi skal finne den nye oljen. Sitter NRK på en gullgruve?
 
 Tilbake til Aftenpostens teknologi- og arbeidsmarkedsdebatt. Steve Wozniak ble brakt fram som et stort forbilde. Og han var selvfølgelig genial. Men han dro også nytten av det uutnyttede potensialet som lå i de nylig oppfunnede «integrerte kretsene». De ble springbrettet hans.
 
