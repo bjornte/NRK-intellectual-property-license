@@ -2,6 +2,8 @@
 
 **Oppsummering:** NRK må endre praksis til å tillate fri gjenbruk, også kommersielt, av så mye av sitt egenproduserte innhold som overhodet mulig. Et verdifullt og enkelt gjennomførbart første steg er å åpne for gjenbruk av all tekst publisert på NRK.no av bedriftens egne journalister/ansatte og av freelancere der NRK har enerett på innholdet. Dette kan gjøres i en håndvending ved å endre ett enkelt avsnitt på NRK.no sin side om opphavsratt.
 
+**Er du enig?** Logg deg inn her på Github og stjernemerk denne "repositoryet"! :-)
+
 ## Bakgrunn
 
 [Dette](https://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522) er NRKs svært lite inspirerende opphavsrettsside slik den fremstår i dag (juli 2016):
@@ -73,7 +75,7 @@ NRK svarte ikke på denne.
 
 Videre diskuterte jeg temaet på NRKbeta med NRKs arkivsjef Svein Prestvik. [Han skrev](https://nrkbeta.no/2016/04/04/slik-tar-vi-vare-pa-nrks-arkiv-for-ettertiden/#comment-671442) blant annet:
 
-> *Creative Commons-lisensiering av egenproduksjon er absolutt interessant, men det er svært få egenproduksjoner som er helt uten fremmede rettigheter*
+> *Creative Commons-lisensiering av egenproduksjon er absolutt interessant, men det er svært få egenproduksjoner som er helt uten fremmede rettigheter.*
 
 Her svarte jeg:
 
