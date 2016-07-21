@@ -69,7 +69,17 @@ Da hadde vi imidlertid også diskutert foto, video og databaser fra journalistis
 
 > (...) For å returnere til det mest grunnleggende: **Er det mulig med CC-lisensiering av artikkeltekster på nrk.no som er skrevet at NRK-ansatte?** Slik jeg forstår det, krever det ingen tekniske endringer, kun en oppdatering av opphavsrettsteksten. Når det er drøftet ferdig kan man eventuelt fortsette diskusjonen rundt videre utvidelser :-)
 
-NRK svarte ikke på denne, så det er siste utvikling i saken.
+NRK svarte ikke på denne.
+
+Videre diskuterte jeg temaet på NRKbeta med NRKs arkivsjef Svein Prestvik. [Han skrev](https://nrkbeta.no/2016/04/04/slik-tar-vi-vare-pa-nrks-arkiv-for-ettertiden/#comment-671442) blant annet:
+
+> *Creative Commons-lisensiering av egenproduksjon er absolutt interessant, men det er svært få egenproduksjoner som er helt uten fremmede rettigheter*
+
+Her svarte jeg:
+
+> Som jeg har skrevet til andre NRK-folk tidligere er det også masse innhold dere tilsynelatende kan fristille, eks. det tekstlige innholdet i nrk.no-artikler som er skrevet av journalister med `@nrk.no`-epost-adresse. Jeg har spurt NRK-folk ved flere anledninger hva som hindrer å Creative Commons-lisensiere denne teksten. Jeg har fremdeles ikke fått noen annen begrunnelse enn at frislipp er vanskelig for andre, mer komplekse innholdstyper. Og da får jeg jo ikke svar på det jeg spør om.
+
+Igjen kom det ikke noe svar fra NRK.
 
 ## Nytteverdi
 
