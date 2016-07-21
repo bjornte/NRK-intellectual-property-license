@@ -16,7 +16,7 @@
 
 > ![](NRK-opphavsrett-r2.png)
 
-Jeg (Bjørn T.) er ikke en gang sikker på at jeg har rett til å lime inn teksten fra siden, så jeg nøyer meg med et skjermbilde. Alle rettigheter &copy; NRK, åpenbart.
+Jeg (Bjørn T.) vet ikke en gang om NRK tillater at jeg limer inn teksten fra siden, så jeg nøyer meg med et skjermbilde.
 
 Jeg tenker NRK bør ha en strategi om å publisere så mye som overhodet mulig av sin egenproduksjon som åpen kilde. Mange NRK-ansatte mener dette er en spennende tanke, men begynner fort å problematisere rundt TV-produksjonene sine, der de bruker lisensiert musikk og andre elementer de ikke kan distribuere videre. For å skape framdrift ønsker jeg derfor i første omgang å begrense diskusjonen til å gjelde tekstlig innhold på NRK.no. Jeg mener vi kan ta et stort skritt videre kun ved å endre ett enkelt avsnitt på opphavsrettssiden; det som omhandler unntak.
 
