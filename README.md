@@ -12,6 +12,12 @@ Jeg (Bjørn T.) er ikke en gang sikker på at jeg har rett til å lime inn tekst
 
 Jeg tenker NRK bør ha en strategi om å publisere så mye som overhodet mulig av sin egenproduksjon som åpen kilde. Mange NRK-ansatte mener dette er en spennende tanke, men begynner fort å problematisere rundt TV-produksjonene sine, der de bruker lisensiert musikk og andre elementer de ikke kan distribuere videre. For å skape framdrift ønsker jeg derfor i første omgang å begrense diskusjonen til å gjelde tekstlig innhold på NRK.no. Jeg mener vi kan ta et stort skritt videre kun ved å endre ett enkelt avsnitt på opphavsrettssiden; det som omhandler unntak.
 
+Det er åpenbart ikke førende for NRK hva en enkelte open source-aktivister mener i sakens anledning. Men det er faktisk slik at kringkasterens oppdragsgiver, Regjeringen, har samme syn.<br> Sitat fra Stortingsmeldingen *Open og opplyst – allmennkringkasting og mediemangfald*:
+
+> *[NRKs arkivmateriale skal gjerast tilgjengeleg for vidarebruk](https://www.regjeringen.no/no/dokumenter/meld.-st.-38-20142015/id2423789/?q=NRKs+arkivmateriale+skal+gjerast+tilgjengeleg+for+vidarebruk&ch=7)*.
+
+*Skal*. Ikke *kan* eller *bør*.
+
 ### Nåværende avsnitt om unntak
 
 > Unntak gjelder for bruk til privat, ikke-kommersiell bruk.
