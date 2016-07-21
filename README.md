@@ -22,5 +22,5 @@ Jeg (Bjørn T.) tenker NRK bør ha en strategi om å publisere så mye som overh
 
 > Unntak gjelder:<br>
 > 1. For privat, ikke-kommersiell bruk.<br>
-> 2. For all artikkeltekst på nettstedet skrevet av en person med e-post-adresse som slutter med `@nrk.no`.
+> 2. For all artikkeltekst på nettstedet skrevet av en person med e-post-adresse som slutter med `@nrk.no`. Denne teksten er åpent lisensiert under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) og kan gjenbrukes fritt av alle, også til kommersielle formål.
 
