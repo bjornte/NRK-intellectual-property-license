@@ -1,6 +1,6 @@
 # En plass for diskusjon av NRKs opphavsrett
 
-(GitHub repo available [here](https://github.com/bjornte/NRK-intellectual-property-license))
+(Endringer gjøres [her](https://github.com/bjornte/NRK-intellectual-property-license/tree/gh-pages))
 
 **Oppsummering:** NRK må endre praksis til å tillate fri gjenbruk, også kommersielt, av så mye av sitt egenproduserte innhold som overhodet mulig. Et verdifullt og enkelt gjennomførbart første steg er å åpne for gjenbruk av all tekst publisert på NRK.no av bedriftens egne journalister/ansatte og av freelancere der NRK har enerett på innholdet. Dette kan gjøres i en håndvending ved å endre ett enkelt avsnitt på NRK.no sin side om opphavsratt.
 
