@@ -16,7 +16,7 @@
 
 [Dette](https://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522) er NRKs svært lite inspirerende opphavsrettsside slik den fremstår i dag (juli 2016):
 
-> ![](NRK-opphavsrett-r2.png)
+> ![](img/NRK-opphavsrett-rotert-med-skygge-liten.png)
 
 Jeg (Bjørn T.) vet ikke en gang om NRK tillater at jeg limer inn teksten fra siden, så jeg nøyer meg med et skjermbilde.
 
