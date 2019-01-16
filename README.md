@@ -14,7 +14,7 @@
 
 ## Bakgrunn
 
-[Dette](https://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522) er NRKs svært lite inspirerende opphavsrettsside slik den fremstår i dag (juli 2016):
+[Dette](https://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522) er NRKs svært lite inspirerende opphavsrettsside slik den fremstår i dag (januar 2019):
 
 > ![](img/NRK-opphavsrett-rotert-med-skygge-liten.png)
 
